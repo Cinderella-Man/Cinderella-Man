@@ -76,6 +76,7 @@ end
   
   </td>
   <td width="50%">
+    
   **🔧 Practical Implementation**
   - WebSocket streaming
   - Database integration
