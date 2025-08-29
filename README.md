@@ -42,9 +42,6 @@ end
 
 </div>
 
-## 📖 Book Showcase Section
-
-```markdown
 ## 📚 My Book: Hands-on Elixir & OTP
 
 <div align="center">
