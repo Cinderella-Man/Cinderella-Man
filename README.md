@@ -43,6 +43,8 @@ defmodule Developer do
 end
 ```
 
+----
+
 ## 📌 Featured Projects
 
 <div align="center">
@@ -64,6 +66,8 @@ end
 
 </div>
 
+----
+
 ## 📚 My Book: Hands-on Elixir & OTP
 
 <div align="center">
@@ -78,6 +82,8 @@ end
 [![Read Online](https://img.shields.io/badge/📖_READ_ONLINE-FREE-9945FF?style=for-the-badge&logo=elixir&logoColor=white)](https://book.elixircryptobot.com/)
 [![Source Code](https://img.shields.io/badge/📑_SOURCE_CODE-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot-source-code)
 </div>
+
+----
 
 ### 🎯 What You'll Learn
 
@@ -105,15 +111,15 @@ end
 
 > 🎥 **Hands-on Elixir & OTP: Cryptocurrency trading bot YouTube Series**: [Watch the video course](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ)
 
+----
+
 ### ⭐ Reader Testimonials
 
 > *"The most practical source of knowledge about OTP-related topics I've ever seen!"* - @patrykwozinski
 
 > *"Perfect for learning Elixir through hands-on application development"* - Construction Professional turned Developer
 
----
-
-<div align="center">
+----
 
 ### 🎯 "Let it crash" - The Erlang/Elixir Philosophy
 
@@ -122,5 +128,3 @@ end
 [![Profile Views](https://komarev.com/ghpvc/?username=Cinderella-Man&color=9945FF&style=flat-square&label=Profile+Views)](https://github.com/Cinderella-Man)
 
 **⭐ Star my repositories if you find them helpful!**
-
-</div>
