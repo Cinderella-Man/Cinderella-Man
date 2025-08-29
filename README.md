@@ -1,7 +1,10 @@
 <div align="center">
 
-### 📚 Author of "Hands-on Elixir & OTP: Cryptocurrency trading bot"
-*Teaching developers to build fault-tolerant, concurrent systems*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9945FF&height=120&section=header&text=Kamil%20Skowron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+### Elixir & OTP Expert • Book Author • Educator
+
+*Teaching developers to build resilient systems that embrace failure*
 
 </div>
 
