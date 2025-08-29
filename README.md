@@ -88,19 +88,19 @@ end
   <td width="50%">
   
   **🏗️ Architecture & Design**
-  - Building Elixir apps
-  - Supervision tree design
-  - GenServer patterns
-  - Registry usage
+  - Build Elixir app
+  - Design Supervision tree 
+  - Orchestrate GenServers
+  - Use Registry
   
   </td>
   <td width="50%">
     
   **🔧 Practical Implementation**
-  - WebSocket streaming
-  - Database integration
-  - Testing strategies
-  - Macro utilization
+  - WebSockets
+  - Databases
+  - PubSub
+  - Test Frameworks
   </td>
   </tr>
 </table>
