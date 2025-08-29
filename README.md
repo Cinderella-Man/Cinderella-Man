@@ -22,7 +22,7 @@
 ```elixir
 defmodule Developer do
   @name "Kamil Skowron"
-  @location "Somewhere in the world"
+  @location "Andorra"
   
   def expertise do
     [
