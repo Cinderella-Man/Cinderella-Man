@@ -86,7 +86,7 @@ end
 #### 🎯 What You'll Learn
 
 <table  align="center">
-  <tr width="50%">
+  <tr width="75%">
   <td width="50%">
   
   **🏗️ Architecture & Design**
