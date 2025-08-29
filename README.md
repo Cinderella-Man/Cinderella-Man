@@ -69,7 +69,7 @@ end
   <td width="50%">
   
   **🏗️ Architecture & Design**
-  - Building umbrella applications
+  - Building Elixir apps
   - Supervision tree design
   - GenServer patterns
   - Registry usage
