@@ -46,6 +46,12 @@ end
 
 <div align="center">
 
+<a href="https://kamilskowron.gumroad.com/l/cSGdY">
+  <img src="https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot/raw/main/images/cover.png" width="200" alt="Hands-on Elixir & OTP Book Cover"/>
+</a>
+
+<br><br>
+
 [![Buy the Book](https://img.shields.io/badge/💰_BUY_THE_BOOK-GUMROAD-FF6B35?style=for-the-badge&logo=gumroad&logoColor=white)](https://kamilskowron.gumroad.com/l/cSGdY)
 [![Read Online](https://img.shields.io/badge/📖_READ_ONLINE-FREE-9945FF?style=for-the-badge&logo=elixir&logoColor=white)](https://book.elixircryptobot.com/)
 [![Source Code](https://img.shields.io/badge/📑_SOURCE_CODE-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot-source-code)
