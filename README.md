@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=300&height=40&lines=Kamil+Skowron" alt="Kamil Skowron" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFF&center=true&vCenter=true&width=300&height=40&lines=Kamil+Skowron" alt="Kamil Skowron" />
 </h1>
 
 ### Elixir & OTP Expert • Book Author • Educator
