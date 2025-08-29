@@ -3,6 +3,8 @@
 # Kamil Skowron
 **Senior Software Engineer • 15+ Years Experience**
 
+<br/>
+
 **Specializing in:** Elixir, OTP, Fault-Tolerant Systems, Technical Writing
 
 📚 **Published Author** - "Hands-on Elixir & OTP: Cryptocurrency Trading Bot"
