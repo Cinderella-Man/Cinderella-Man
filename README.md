@@ -13,7 +13,7 @@
 
 💼 **Industry Veteran** - 15+ years of production software development  
 
----
+
 
 </div>
 
