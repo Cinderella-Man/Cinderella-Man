@@ -27,7 +27,7 @@ defmodule Developer do
   def current_projects do
     [
       book: "Hands-on Elixir & OTP: Cryptocurrency trading bot",
-      status: "90% complete - chapters 1-20 finished",
+      status: "95% complete - chapters 1-23 finished",
       youtube: "Video course companion series",
       learning: "Always exploring new patterns in functional programming"
     ]
@@ -63,26 +63,24 @@ end
 ### 🎯 What You'll Learn
 
 <table>
-<tr>
-<td width="50%">
-
-**🏗️ Architecture & Design**
-- Building umbrella applications
-- Supervision tree design
-- GenServer patterns
-- Registry usage
-
-</td>
-<td width="50%">
-
-**🔧 Practical Implementation**
-- WebSocket streaming
-- Database integration
-- Testing strategies
-- Macro utilization
-
-</td>
-</tr>
+  <tr>
+  <td width="50%">
+  
+  **🏗️ Architecture & Design**
+  - Building umbrella applications
+  - Supervision tree design
+  - GenServer patterns
+  - Registry usage
+  
+  </td>
+  <td width="50%">
+  **🔧 Practical Implementation**
+  - WebSocket streaming
+  - Database integration
+  - Testing strategies
+  - Macro utilization
+  </td>
+  </tr>
 </table>
 
 > 🎥 **Companion YouTube Series**: [Watch the video course](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ)
