@@ -1,12 +1,15 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFF&center=true&vCenter=true&width=300&height=40&lines=Kamil+Skowron" alt="Kamil Skowron" />
-</h1>
+# Kamil Skowron
+**Senior Software Engineer • 15+ Years Experience**
 
-### Elixir & OTP Expert • Book Author • Educator
+**Specializing in:** Elixir, OTP, Fault-Tolerant Systems, Technical Writing
 
-*Teaching developers to build resilient systems that embrace failure*
+📚 **Published Author** - "Hands-on Elixir & OTP: Cryptocurrency Trading Bot"
+🎓 **Technical Educator** - Helping developers master concurrent programming  
+💼 **Industry Veteran** - 15+ years of production software development  
+
+---
 
 </div>
 
