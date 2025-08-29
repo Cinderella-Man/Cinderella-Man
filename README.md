@@ -5,6 +5,7 @@
 
 **Specializing in:** Elixir, OTP, Fault-Tolerant Systems, Technical Writing
 
+<br/>
 
 📚 **Published Author** - "Hands-on Elixir & OTP: Cryptocurrency Trading Bot"
 
