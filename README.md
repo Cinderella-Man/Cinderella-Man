@@ -107,17 +107,17 @@ end
   </tr>
 </table>
 
-> 🎥 **Hands-on Elixir & OTP: Cryptocurrency trading bot YouTube Series**: [Watch the video course](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ)
-
-----
-
-### ⭐ Reader Testimonials
+#### ⭐ Reader Testimonials
 
 > *"The most practical source of knowledge about OTP-related topics I've ever seen!"* - @patrykwozinski
 
 > *"Perfect for learning Elixir through hands-on application development"* - Construction Professional turned Developer
 
 ----
+
+### 🎥 Video production
+
+[Hands-on Elixir & OTP: Cryptocurrency trading bot YouTube series](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ)
 
 ### 🎯 "Let it crash" - The Erlang/Elixir Philosophy
 
