@@ -46,9 +46,9 @@ end
 
 <div align="center">
 
-[![Book Banner](https://img.shields.io/badge/📖_READ_THE_BOOK-FREE_ONLINE-9945FF?style=for-the-badge&logo=elixir)](https://elixircryptobot.com/)
-[![GitHub](https://img.shields.io/badge/📑_SOURCE_CODE-BLACK?style=for-the-badge&logo=github)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)
-
+[![Buy the Book](https://img.shields.io/badge/💰_BUY_THE_BOOK-GUMROAD-FF6B35?style=for-the-badge&logo=gumroad&logoColor=white)](https://kamilskowron.gumroad.com/l/cSGdY)
+[![Read Online](https://img.shields.io/badge/📖_READ_ONLINE-FREE-9945FF?style=for-the-badge&logo=elixir&logoColor=white)](https://book.elixircryptobot.com/)
+[![Source Code](https://img.shields.io/badge/📑_SOURCE_CODE-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot-source-code)
 </div>
 
 ### 🎯 What You'll Learn
@@ -84,3 +84,16 @@ end
 
 > *"Perfect for learning Elixir through hands-on application development"* - Construction Professional turned Developer
 
+---
+
+<div align="center">
+
+### 🎯 "Let it crash" - The Erlang/Elixir Philosophy
+
+*Building systems that embrace failure to achieve true resilience*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Cinderella-Man&color=9945FF&style=flat-square&label=Profile+Views)](https://github.com/Cinderella-Man)
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
