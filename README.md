@@ -47,9 +47,12 @@ end
 
 <div align="center">
 
-[![Hands-on Elixir and OTP: Cryptocurrency Trading Bot(book)](https://github-readme-stats.vercel.app/api/pin/?username=Cinderella-Man&repo=hands-on-elixir-and-otp-cryptocurrency-trading-bot&theme=tokyonight)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)
-
-[![Hands-on Elixir and OTP: Cryptocurrency Trading Bot(source code)](https://github-readme-stats.vercel.app/api/pin/?username=Cinderella-Man&repo=hands-on-elixir-and-otp-cryptocurrency-trading-bot-source-code&theme=tokyonight)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot-source-code)
+  <table>
+    <tr>
+      <td>[![Hands-on Elixir and OTP: Cryptocurrency Trading Bot(book)](https://github-readme-stats.vercel.app/api/pin/?username=Cinderella-Man&repo=hands-on-elixir-and-otp-cryptocurrency-trading-bot&theme=tokyonight)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot)</td>
+      <td>[![Hands-on Elixir and OTP: Cryptocurrency Trading Bot(source code)](https://github-readme-stats.vercel.app/api/pin/?username=Cinderella-Man&repo=hands-on-elixir-and-otp-cryptocurrency-trading-bot-source-code&theme=tokyonight)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot-source-code)</td>
+    </tr>
+  </table>
 
 </div>
 
