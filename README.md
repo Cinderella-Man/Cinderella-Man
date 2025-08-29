@@ -30,7 +30,7 @@ defmodule Developer do
     [
       book: "Hands-on Elixir & OTP: Cryptocurrency trading bot",
       status: "95% complete - chapters 1-23 finished",
-      youtube: "Video course companion series",
+      youtube: "Hands-on Elixir & OTP: Cryptocurrency trading bot",
       learning: "Always exploring new patterns in functional programming"
     ]
   end
@@ -85,7 +85,7 @@ end
   </tr>
 </table>
 
-> 🎥 **Companion YouTube Series**: [Watch the video course](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ)
+> 🎥 **Hands-on Elixir & OTP: Cryptocurrency trading bot YouTube Series**: [Watch the video course](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ)
 
 ### ⭐ Reader Testimonials
 
