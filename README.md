@@ -7,11 +7,13 @@
 
 **Specializing in:** Elixir, OTP, Fault-Tolerant Systems, Technical Writing
 
+<div>
 📚 **Published Author** - "Hands-on Elixir & OTP: Cryptocurrency Trading Bot"
 
 🎓 **Technical Educator** - Helping developers master concurrent programming  
 
 💼 **Industry Veteran** - 15+ years of production software development  
+</div>
 
 ---
 
