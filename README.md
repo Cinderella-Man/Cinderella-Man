@@ -83,8 +83,6 @@ end
 [![Source Code](https://img.shields.io/badge/📑_SOURCE_CODE-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cinderella-Man/hands-on-elixir-and-otp-cryptocurrency-trading-bot-source-code)
 </div>
 
-#### 🎯 What You'll Learn
-
 <table  align="center">
   <tr width="75%">
   <td width="50%">
