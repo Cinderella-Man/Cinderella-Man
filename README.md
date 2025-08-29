@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9945FF&height=120&section=header&text=Kamil%20Skowron&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=300&height=40&lines=Kamil+Skowron" alt="Kamil Skowron" />
+</h1>
 
 ### Elixir & OTP Expert • Book Author • Educator
 
