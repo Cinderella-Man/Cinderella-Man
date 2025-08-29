@@ -36,7 +36,6 @@ defmodule Developer do
   def current_projects do
     [
       book: "Hands-on Elixir & OTP: Cryptocurrency trading bot",
-      status: "95% complete - chapters 1-23 finished",
       youtube: "Hands-on Elixir & OTP: Cryptocurrency trading bot",
       learning: "Always exploring new patterns in functional programming"
     ]
