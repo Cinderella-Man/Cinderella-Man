@@ -117,6 +117,8 @@ end
 
 [Hands-on Elixir & OTP: Cryptocurrency trading bot YouTube series](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ)
 
+----
+
 ### 🎯 "Let it crash" - The Erlang/Elixir Philosophy
 
 *Building systems that embrace failure to achieve true resilience*
